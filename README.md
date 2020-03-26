@@ -1,7 +1,7 @@
 # ERDS-Pytorch
-A CNN model selection on EEG motor-imagery data-sets via Pytorch
+A CNN model selection for decoding EEG motor-imagery patterns via PyTorch
 
-This repo was created to help our students to get started with EEG + Deep learning research. 
+This repo was created to help students to get started with EEG + Deep learning research. 
 
 pls, check the youtube video: https://youtu.be/Y2WbcuhZ0CA
 
