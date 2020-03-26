@@ -3,7 +3,7 @@ A CNN model selection on EEG motor-imagery data-sets via Pytorch
 
 This repo was created to help our students to get started with EEG + Deep learning research. 
 
-pls, check the youtube video: https://www.youtube.com/watch?v=Y2WbcuhZ0CA&feature=youtu.be 
+pls, check the youtube video: https://youtu.be/Y2WbcuhZ0CA
 
 Required packages:
 1) pip install -U mne
