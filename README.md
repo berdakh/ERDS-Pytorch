@@ -3,7 +3,7 @@ A CNN model selection for decoding EEG motor-imagery patterns via PyTorch
 
 This repo was created to help students to get started with EEG + Deep learning research. 
 
-Check out the youtube video: https://www.youtube.com/watch?v=NEJqWq4RPZQ
+Check out the youtube video: https://youtu.be/NEJqWq4RPZQ
 
 Required packages:
 1) pip install -U mne
